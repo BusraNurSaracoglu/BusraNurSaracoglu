@@ -1,4 +1,5 @@
-### Hello, I am a software developer, graduated from electrical electronics engineering department. 👋
+### Hello,👋 
+### I am a software developer, graduated from electrical electronics engineering department. 🎓
 
 <!--
 **BusraNurSaracoglu/BusraNurSaracoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
