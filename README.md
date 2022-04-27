@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 📫 If you want to contact with me: 
+- 📫 If you want to contact with me:
 
 E-Mail     : busranurrsaracogluu@gmail.com
 Linkedin   : https://www.linkedin.com/in/busranurrsaracogluu/
