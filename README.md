@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interested in AI, data science and deep learning.
+- 🔭 I’m currently interested in AI, data science, image processing and deep learning.
 - 🌱 I’m currently learning SQL, Java and Python.
 - ⚡ You can in my profile find some of my Python projects about data science.
 
