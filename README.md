@@ -29,3 +29,4 @@ Linkedin   : https://www.linkedin.com/in/busranurrsaracogluu/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraNurSaracoglu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusraNurSaracoglu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
